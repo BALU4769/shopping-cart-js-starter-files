@@ -1,0 +1,286 @@
+
+/* body, ul {
+     
+     margin: 0;
+    padding: 0; 
+    list-style: none;
+}
+
+
+nav {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #e0af46;
+    color: #fff;
+    display: flex;
+    position: sticky;
+    z-index: 1;
+    top: 0px;
+    justify-content: start;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 40px;
+}
+.img1
+{
+    border-radius: 10px;
+}
+.cook-off
+{
+    color: #312929;
+    font-size: larger;
+    font-weight: 300;
+    margin-left: 40px;
+    margin-right: 100px;
+}
+
+.contact-us
+{
+margin-left: 20px;
+}
+.log-in
+{
+    margin-left: 130px;
+    margin-right: 20px;
+}
+
+.nav-links {
+    display: flex;
+    margin-left: 80px;  
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #312929;
+    font-weight: bold;
+}
+
+
+.content {
+    padding: 20px;
+}
+
+
+.nav-links a:hover {
+    color: #ff0000; 
+}
+.box-one
+{
+    
+    position: relative;
+}
+.box-one-text
+{
+    
+    position: absolute;
+    top: 220px;
+    left: 200px;
+}
+.fast-food-stall
+{
+    color: red;
+font-size: 60px;
+font-style: italic;
+font-weight: bolder;
+}
+.fast-food-text
+{
+    color: white;
+    width: 500px;
+    font-size: large;
+
+}
+
+
+
+
+
+
+footer
+{
+    margin-top: 700px;
+    background-color: #e0af46;
+    font-size: small;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.all
+{
+    display: inline-flex;
+    margin-left: 370px;
+    
+    
+}
+.one
+{
+    height: 150px;
+    width: 200px;
+    margin-right: 100px;
+    align-items: center;
+    background-color:#e0af46;
+    
+}
+.two
+{
+    height: 150px;
+    width: 200px;
+    margin-right: 70px;
+    background-color:#e0af46;
+}
+.three
+{
+    height: 150px;
+    width: 200px;
+    margin-right: 100px;
+    background-color:#e0af46;
+    
+}
+.img2
+{
+    margin-top: 2px;
+   margin-left: 47px;
+    border-radius: 15px;
+}
+
+.image-footer
+{
+    align-items: center;
+}
+
+.food-text
+{
+    margin-top: 20px;
+    font-size: smaller;
+    text-align: center;
+}
+.food-batch
+{
+    margin-left: 10px;
+    font-size: larger;
+    font-weight:bold;
+}
+.address
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+    font-size: 15px;
+    line-height:20px;
+}
+.all-rights
+{
+    text-align: center;
+}
+.terms
+{
+    font-size:15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-button {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 0px 25px;
+    background-color:#e0af46;
+    color:#312929;
+    border: none;
+    cursor: pointer;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 140px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    color: #333;
+}
+
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+} */
+
+
+
+
+
+main {
+    max-width: 1400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:rgba(142, 130, 130, 0.18);
+    border-radius: 5px;
+}
+
+/* Styling for headings and paragraphs */
+main h1, h2 {
+    color: #18d742;
+}
+
+.product-category {
+    margin-bottom: 20px;
+}
+
+/* Styling using CSS Grid for product listings */
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.product-item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.product-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+

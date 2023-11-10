@@ -1,0 +1,81 @@
+let shopItemsData=[
+  {
+    id:"forty",
+    name:"Chicken Majestic",
+    price:149,
+    desc:"kjsdn ",
+    img:"https://sulthansbiriyani.in/wp-content/uploads/2021/04/Chicken-Majestic-Delicious-Indian-Non-Veg-Starters.jpg",
+  },
+
+  {
+    id:"fortyone",
+    name:"Floating Island",
+    price:99,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/floating-island-3a8b98b.jpg?quality=90&webp=true&resize=375,341",
+  },
+  {
+    id:"fortytwo",
+    name:"cherry almond galette",
+    price:120,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cherry-almond-frangipane-galette-07807dc.jpg?quality=90&webp=true&resize=375,341",
+  },
+  {
+    id:"fortythree",
+    name:"Blackberry Lemon pool",
+    price:125,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/fools-a48cee6.jpg?quality=90&webp=true&resize=375,341",
+  },
+  {
+    id:"fortyfour",
+    name:"zesty lemon cake",
+    price:150,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/zesty-lemon-cake-1f0e15f.jpg?quality=90&webp=true&resize=375,341",
+  },
+  {
+    id:"fortyfive",
+    name:"chocolate malt",
+    price:170,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chocolate-malt-loaf-torte-c002064.jpg?quality=90&webp=true&resize=375,341",
+  },
+  {
+    id:"fortysix",
+    name:"nanaimo bars",
+    price:149,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nanaimo-bars-b65516e.jpg?quality=90&webp=true&resize=375,341",
+  },
+  {
+    id:"fortyseven",
+    name:"Vannila panna cotta",
+    price:179,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/panna-cotta-638cd76.jpg?quality=90&webp=true&resize=375,341",
+  },
+  {
+    id:"fortyeight",
+    name:"raspberry brulee",
+    price:165,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/raspberry-brulee-4c54f2c.jpg?quality=90&webp=true&resize=375,341",
+  },
+  {
+    id:"fortynine",
+    name:"smores dip",
+    price:140,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/smores-dip-3f0676b.jpg?quality=90&webp=true&resize=375,341",
+  },
+  {
+    id:"fifty",
+    name:"Butterscotch pie",
+    price:130,
+    desc:"kjsdn ",
+    img:"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/butterscotch-pie-82c5643.jpg?quality=90&webp=true&resize=375,341",
+  },
+    
+];
